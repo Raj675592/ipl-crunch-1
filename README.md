@@ -1,27 +1,4 @@
 # IPL CRUNCH '26 — Analysis Documentation
-
-
----
-
-## Table of Contents
-
-1. [Project Overview](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#1-project-overview)
-2. [Dataset Description](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#2-dataset-description)
-3. [Setup &amp; Installation](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#3-setup--installation)
-4. [Script Structure](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#4-script-structure)
-5. [Analysis Modules](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#5-analysis-modules)
-   * [Q1 · Toss Advantage](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#q1--toss-advantage)
-   * [Q2 · Phase Impact on Victory](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#q2--phase-impact-on-victory)
-   * [Q3 · Top Batters](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#q3--top-batters)
-   * [Q4 · Top Bowlers](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#q4--top-bowlers)
-   * [Bonus · Season &amp; Venue Trends](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#bonus--season--venue-trends)
-6. [Output Files](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#6-output-files)
-7. [Methodology Notes](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#7-methodology-notes)
-8. [How to Run](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#8-how-to-run)
-9. [Extending the Analysis](https://claude.ai/chat/8a31fec4-c71e-420d-b1cf-1dc0343e724c#9-extending-the-analysis)
-
----
-
 ## 1. Project Overview
 
 This project provides a complete, reproducible Python solution for the **IPL CRUNCH '26** data analytics challenge. It ingests real ball-by-ball IPL data and answers four core questions that mirror how analysts work in sports, product, and business environments.
