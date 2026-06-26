@@ -1,8 +1,5 @@
 # IPL CRUNCH '26 — Analysis Documentation
 
-> **Wooble Online Data Analytics Challenge**
->
-> Registration Deadline: 29 May 2026 · Prize Pool: ₹3,000 + Certificate + Swag
 
 ---
 
